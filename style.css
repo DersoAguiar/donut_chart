@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+    background-color: lightcyan;
+}
+body {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 20%;
+    left: 40%;
+}
